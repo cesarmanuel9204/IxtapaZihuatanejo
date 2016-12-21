@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Ixtapa Zihuatanejo</string>
+
+    <!-- Slider Image -->
+    <string name="next">Siguiente</string>
+    <string name="skip">Saltar</string>
+    <string name="start">Entrar</string>
+
+    <string name="slide_1_title">Hola Binvenidos!</string>
+    <string name="slide_1_desc">Esperemos que te la pases de lo mejor en este hermoso destino!</string>
+
+    <string name="slide_2_title">Localiza</string>
+    <string name="slide_2_desc">Encuentra todo tipo de negocios!</string>
+
+    <string name="slide_3_title">Cupones</string>
+    <string name="slide_3_desc">Encuentra grandes descuentos que tenemos para ti!</string>
+
+    <string name="slide_4_title">Eventos</string>
+    <string name="slide_4_desc">No te pierdas ningun eventos!</string>
+
+    <string name="slide_5_title">Disfruta</string>
+    <string name="slide_5_desc">Pero sobre todo disfruta de este maravilloso destino!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="title_activity_principal">Ixtapa Zihuatanejo</string>
+    <string name="dialog_title">IxtaZihua dice:</string>
+    <string name="dialog_message">Realmente quieres salir de la Aplicación?</string>
+    <string name="send_to">Compartido Correctamente</string>
+    <string name="Menu_Maps">Mapas</string>
+    <string name="Menu_About">Acerca de</string>
+    <string name="Menu_Exit">Salir</string>
+
+    <string name="Tab_Hotel">Hoteles</string>
+    <string name="Tab_Restaurant">Restaurantes</string>
+    <string name="Tab_Business">Negocios</string>
+    <string name="Tab_Services">Servicios</string>
+    <string name="Tab_Attractive">Actividades</string>
+    <string name="Tab_Events">Eventos</string>
+    <string name="Tab_fulsttion">Gasolinerias</string>
+    <string name="Tab_bank">Bancos y cajeros</string>
+    <string name="Tab_WomenShoes">Cupones</string>
+    <string name="Tab_About">Acerca de </string>
+    <string name="Tab_Exit">Salir</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_detalle">DetalleActivity</string>
+    <string name="title_activity_scrolling">Sunscape</string>
+    <string name="direccion">Paseo de Ixtapa S/N Lote 3-A,Ixtapa Zihuatanejo, Gro.</string>
+    <string name="action_settings">Settings</string>
+    <string name="search">Ingresa la Búsqueda</string>
+    <string name="Voice_Mesenger">Lo siento tu pude reconocer tu busqueda</string>
+    <string name="Button_Floating">GPS</string>
+    <string name="Button_Filter">Filtro</string>
+    <string name="Button_Shared">Compartir</string>
+    <string name="Button_Facebook">Facebook</string>
+    <string name="Button_Twitter">Twitter</string>
+    <string name="Button_Google">Google+</string>
+    <string name="Button_Youtube">YouTube</string>
+    <string name="Button_Pinterestr">Pinterest</string>
+</resources>
